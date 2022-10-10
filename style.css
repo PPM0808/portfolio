@@ -129,7 +129,9 @@ a {
      color: #005a71;
  }
 
-
+.video {
+    padding: 20px;
+}
 .footer {
     background: #00c1e362;
     padding: 10px;
